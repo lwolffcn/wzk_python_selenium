@@ -1,0 +1,57 @@
+1617766562198	geckodriver	INFO	Listening on 127.0.0.1:5231
+1617766565249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilectHmLs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617766567841	Marionette	INFO	Listening on port 5239
+1617766568082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617766571112	Marionette	INFO	Stopped listening on port 5239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617766602442	geckodriver	INFO	Listening on 127.0.0.1:5332
+1617766605500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileDtwDKF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617766608312	Marionette	INFO	Listening on port 5340
+1617766608330	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14376, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1617766619153	Marionette	INFO	Stopped listening on port 5340
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617766670625	geckodriver	INFO	Listening on 127.0.0.1:5429
+1617766673670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileG35jH3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617766676482	Marionette	INFO	Listening on port 5437
+1617766676982	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617766680471	Marionette	INFO	Stopped listening on port 5437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620962768138	geckodriver	INFO	Listening on 127.0.0.1:3957
+1620962771213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileWMk7Lc"
+1620962772125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620962774172	Marionette	INFO	Listening on port 3966
+1620962774527	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 12568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1620962781733	Marionette	INFO	Stopped listening on port 3966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620962799578	geckodriver	INFO	Listening on 127.0.0.1:4046
+1620962802620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileDqS28L"
+1620962803501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620962805404	Marionette	INFO	Listening on port 4054
+1620962805911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620962808501	Marionette	INFO	Stopped listening on port 4054
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

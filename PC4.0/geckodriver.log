@@ -1,0 +1,21 @@
+1628652934065	geckodriver	INFO	Listening on 127.0.0.1:27594
+1628652937117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileHons5s"
+1628652937970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileHons5s\\search.json.mozlz4", (void 0)))
+1628652939997	Marionette	INFO	Listening on port 27602
+1628652940446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628652952189	Marionette	INFO	Stopped listening on port 27602
+1628652953957	geckodriver	INFO	Listening on 127.0.0.1:27661
+1628652957018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileSWZdp2"
+1628652957915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileSWZdp2\\search.json.mozlz4", (void 0)))
+1628652959962	Marionette	INFO	Listening on port 27673
+1628652960400	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628652961536	Marionette	INFO	Stopped listening on port 27673
+[Parent 10908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

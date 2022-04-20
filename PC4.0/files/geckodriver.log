@@ -1,0 +1,264 @@
+1650337257126	geckodriver	INFO	Listening on 127.0.0.1:19867
+1650337260153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile5QBFlo"
+1650337260961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile5QBFlo\\search.json.mozlz4", (void 0)))
+1650337262999	Marionette	INFO	Listening on port 19880
+1650337264152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650337264333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1650337273645	Marionette	INFO	Stopped listening on port 19880
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650337295181	geckodriver	INFO	Listening on 127.0.0.1:19974
+1650337298192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileGF7NTK"
+1650337298912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileGF7NTK\\search.json.mozlz4", (void 0)))
+1650337300696	Marionette	INFO	Listening on port 19983
+1650337300962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650338840614	Marionette	INFO	Stopped listening on port 19983
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileqOLPiN"
+1650337331716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileqOLPiN\\search.json.mozlz4", (void 0)))
+1650337333601	Marionette	INFO	Listening on port 20077
+1650337333935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650338839820	Marionette	INFO	Stopped listening on port 20077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile4e8XY6"
+1650337384878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile4e8XY6\\search.json.mozlz4", (void 0)))
+1650337386642	Marionette	INFO	Listening on port 20181
+1650337387121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650337392035	Marionette	INFO	Stopped listening on port 20181
+1650337412114	geckodriver	INFO	Listening on 127.0.0.1:20241
+1650337415152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileBHKUmD"
+1650337415708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileBHKUmD\\search.json.mozlz4", (void 0)))
+1650337417550	Marionette	INFO	Listening on port 20251
+1650337417939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650337442178	Marionette	INFO	Stopped listening on port 20251
+1650337460841	geckodriver	INFO	Listening on 127.0.0.1:20373
+1650337463859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile2tJFZ9"
+1650337464591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile2tJFZ9\\search.json.mozlz4", (void 0)))
+1650337466380	Marionette	INFO	Listening on port 20384
+1650337466627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650337467921	Marionette	INFO	Stopped listening on port 20384
+1650350209033	geckodriver	INFO	Listening on 127.0.0.1:12172
+1650350212084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileHtueav"
+1650350213019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileHtueav\\search.json.mozlz4", (void 0)))
+1650350214906	Marionette	INFO	Listening on port 12180
+1650350215376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650352258540	Marionette	INFO	Stopped listening on port 12180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilemeCH4D"
+1650350329843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilemeCH4D\\search.json.mozlz4", (void 0)))
+1650350331588	Marionette	INFO	Listening on port 13139
+1650350331609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650352259155	Marionette	INFO	Stopped listening on port 13139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofiledkWvdM"
+1650350378635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofiledkWvdM\\search.json.mozlz4", (void 0)))
+1650350380708	Marionette	INFO	Listening on port 13209
+1650350380897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1650352260381	Marionette	INFO	Stopped listening on port 13209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileD3aUu8"
+1650350633493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileD3aUu8\\search.json.mozlz4", (void 0)))
+1650350635182	Marionette	INFO	Listening on port 18313
+1650350635544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650350641387	Marionette	INFO	Stopped listening on port 18313
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1650350766574	geckodriver	INFO	Listening on 127.0.0.1:27034
+1650350769606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileoq2OzA"
+1650350770143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileoq2OzA\\search.json.mozlz4", (void 0)))
+1650350772064	Marionette	INFO	Listening on port 27048
+1650350772402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650350777402	Marionette	INFO	Stopped listening on port 27048
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1650352001893	geckodriver	INFO	Listening on 127.0.0.1:1051
+1650352004927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile1KqANB"
+1650352005645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofile1KqANB\\search.json.mozlz4", (void 0)))
+1650352007462	Marionette	INFO	Listening on port 1059
+1650352007698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+1650352261191	Marionette	INFO	Stopped listening on port 1059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileZqMHHb"
+1650352217348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileZqMHHb\\search.json.mozlz4", (void 0)))
+1650352219202	Marionette	INFO	Listening on port 23239
+1650352219363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+1650352262054	Marionette	INFO	Stopped listening on port 23239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650352297440	geckodriver	INFO	Listening on 127.0.0.1:13094
+1650352300456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileUIbP8Q"
+1650352301128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileUIbP8Q\\search.json.mozlz4", (void 0)))
+1650352302856	Marionette	INFO	Listening on port 13102
+1650352303223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+1650353083414	Marionette	INFO	Stopped listening on port 13102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofiledjdgk1"
+1650352391659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofiledjdgk1\\search.json.mozlz4", (void 0)))
+1650352393472	Marionette	INFO	Listening on port 13273
+1650352393883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1650352428245	Marionette	INFO	Stopped listening on port 13273
+1650352478817	geckodriver	INFO	Listening on 127.0.0.1:4410
+1650352481828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilevO6P69"
+1650352482375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilevO6P69\\search.json.mozlz4", (void 0)))
+1650352484284	Marionette	INFO	Listening on port 4418
+1650352484603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+1650353084273	Marionette	INFO	Stopped listening on port 4418
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileIzK4jA"
+1650352738202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileIzK4jA\\search.json.mozlz4", (void 0)))
+1650352740099	Marionette	INFO	Listening on port 24755
+1650352741622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+1650352759734	Marionette	INFO	Stopped listening on port 24755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 476: TypeError: this._captureQueue is undefined
+1650352856802	geckodriver	INFO	Listening on 127.0.0.1:30252
+1650352859835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileMLu514"
+1650352860653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileMLu514\\search.json.mozlz4", (void 0)))
+1650352862796	Marionette	INFO	Listening on port 30265
+1650352864910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+[Child 1176, MediaDecoderStateMachine #1] WARNING: 220a66dc580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1650352935181	Marionette	INFO	Stopped listening on port 30265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650352951000	geckodriver	INFO	Listening on 127.0.0.1:4380
+1650352954030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileThDPYI"
+1650352954600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileThDPYI\\search.json.mozlz4", (void 0)))
+1650352956461	Marionette	INFO	Listening on port 4391
+1650352956804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+[Child 8424, MediaDecoderStateMachine #1] WARNING: 29f15f2bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1650352988487	Marionette	INFO	Stopped listening on port 4391
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\win10\AppData\Local\Temp\rust_mozprofileThDPYI\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650353015044	geckodriver	INFO	Listening on 127.0.0.1:4547
+1650353018066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilev0YJ0J"
+1650353018699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilev0YJ0J\\search.json.mozlz4", (void 0)))
+1650353020512	Marionette	INFO	Listening on port 4557
+1650353020853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+1650353085303	Marionette	INFO	Stopped listening on port 4557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650353088191	geckodriver	INFO	Listening on 127.0.0.1:2323
+1650353091202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilezimRu7"
+1650353091848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofilezimRu7\\search.json.mozlz4", (void 0)))
+1650353093653	Marionette	INFO	Listening on port 2331
+1650353093992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+[Child 14240, MediaDecoderStateMachine #1] WARNING: 19935b9c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1650353155216	Marionette	INFO	Stopped listening on port 2331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650353205315	geckodriver	INFO	Listening on 127.0.0.1:2491
+1650353208332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileYvDGDc"
+1650353208989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileYvDGDc\\search.json.mozlz4", (void 0)))
+1650353210698	Marionette	INFO	Listening on port 2499
+1650353211096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+[Child 2224, MediaDecoderStateMachine #1] WARNING: 23a98c6d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1650353257255	Marionette	INFO	Stopped listening on port 2499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650353285687	geckodriver	INFO	Listening on 127.0.0.1:30944
+1650353288724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileELHjMw"
+1650353289385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileELHjMw\\search.json.mozlz4", (void 0)))
+1650353291092	Marionette	INFO	Listening on port 30952
+1650353291511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+[Child 6472, MediaDecoderStateMachine #1] WARNING: 264dacbb040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1650353322325	Marionette	INFO	Stopped listening on port 30952
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1650354621727	geckodriver	INFO	Listening on 127.0.0.1:29345
+1650354624747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileAcScCE"
+1650354625450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\win10\\AppData\\Local\\Temp\\rust_mozprofileAcScCE\\search.json.mozlz4", (void 0)))
+1650354627290	Marionette	INFO	Listening on port 29353
+1650354627550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+JavaScript warning: https://kraken.ignimgs.com/_next/static/chunks/148903b84d877aaec44fe9c14f4809e1a14cbc79.02b26fade3de7da44506.js, line 1: unreachable code after return statement
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1fc46568ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1650354726460	Marionette	INFO	Stopped listening on port 29353
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
